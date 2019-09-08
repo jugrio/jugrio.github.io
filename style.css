@@ -22,15 +22,15 @@ body, html {
 
 .inner-table-right {
   text-align: left;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 14px;
+  padding-right: 14px;
   display: inline-block;
 }
 
 .inner-table-left {
   text-align: center;
-  padding-right: 10px;
-  padding-left: 10px;
+  padding-right: 14px;
+  padding-left: 14px;
   display: inline-block;
 }
 
