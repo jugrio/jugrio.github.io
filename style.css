@@ -35,9 +35,14 @@ body, html {
 
 a {
   color: white;
+  text-decoration: none;
 }
 
-.bar a:link, a:visited {
+a:hover {
+  text-decoration: underline;
+}
+
+.bar a:link, .bar a:visited {
   background-color: #f44336;
   color: white;
   padding: 14px 25px;
@@ -46,7 +51,7 @@ a {
   display: inline-block;
 }
 
-.bar a:hover, a:active {
+.bar a:hover, .bar a:active {
   background-color: red;
 }
 
