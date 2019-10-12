@@ -59,3 +59,8 @@ a:hover {
   margin-left: 50px;
   font-family: 'Open Sans', sans-serif;
 }
+
+.icon {
+    height: 7;
+    width: 5;
+}
